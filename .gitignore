@@ -1,4 +1,5 @@
-/node_modules
+reduxsimplestarter-part1/node_modules
+reduxsimplestarter-part2/node_modules
 bundle.js
 npm-debug.log
 .DS_Store
